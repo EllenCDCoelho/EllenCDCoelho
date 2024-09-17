@@ -5,6 +5,9 @@
 - Working towards advanced English
 - Looking to collaborate on software projects
 
+  <div style="display: inline_block"><br>
+   <img align="right" alt="ellen" src="https://discord.com/channels/1285386360278089738/1285386361284858002/1285409153057161277/h1.img">
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/v53SsUfz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ellencdcoelho) 
