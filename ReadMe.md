@@ -1,5 +1,9 @@
-# 💫 About Me:
-🎓 4th-semester Software Engineering student<br>  -  Working towards advanced English<br>🔧 Looking to collaborate on software projects
+## Oii! I´m Ellen Carolline
+
+# About Me:
+- 4th-semester Software Engineering student
+- Working towards advanced English
+- Looking to collaborate on software projects
 
 
 ## 🌐 Socials:
