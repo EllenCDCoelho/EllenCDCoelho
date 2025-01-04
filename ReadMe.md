@@ -1,6 +1,6 @@
 ## Oii! I´m Ellen Carolline 
 <div style="display: inline_block">
- <img align="left"  alt=""Ellen" height="125" width="125" src="https://cdn.discordapp.com/attachments/1285386361284858002/1285412034393145476/download.gif?ex=66ea2cbe&is=66e8db3e&hm=b2b31c92598a6f3cdf49308d6f304f57b56f450e7814c72fc6d39692a1343da3&">
+ <img align="left"  alt=""Ellen" height="125" width="125" src="https://discord.com/channels/1285386360278089738/1285386361284858002/1285412034674036776">
 </div><br>
 
 <br>
